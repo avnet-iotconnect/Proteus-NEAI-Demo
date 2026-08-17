@@ -2,7 +2,7 @@
 
 This demo will use a [Discovery kit with STM32MP157F MPU](https://www.st.com/en/evaluation-tools/stm32mp157f-dk2.html) and an [STEVAL-PROTEUS1 Sensor Module](https://www.st.com/en/evaluation-tools/steval-proteus1.html) to run an IoTConnect program to monitor AI-based Anomaly-Detection data in real-time on the IoTConnect cloud platform using AWS. 
 
-<img src=".//media/image34.png"/> 
+<img src=".//media/neai-dashboard.png"/> 
 
 ## Step 1: Make an IoTConnect Account
 * To get started making an IoTConnect account, you can contact our team at info@iotconnect.io
